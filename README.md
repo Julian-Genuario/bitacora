@@ -6,4 +6,5 @@ Una entrada por día en [`/entradas`](./entradas), con formato `AAAA-MM-DD.md`.
 
 ## Entradas
 
+- [2026-06-01 — Case studies de los SaaS](./entradas/2026-06-01.md)
 - [2026-05-31 — Arranca la bitácora](./entradas/2026-05-31.md)
