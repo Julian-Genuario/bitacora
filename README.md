@@ -1,10 +1,10 @@
-# 📓 Bitácora de desarrollo
+# Bitacora de desarrollo
 
-Registro corto y honesto de en qué avancé cada día: decisiones, problemas que resolví y cosas que aprendí. No es documentación formal — es el cuaderno de trabajo.
+Voy anotando aca en que avanzo cada dia: que hice, que decidi y que aprendi. Es mi cuaderno de trabajo, no documentacion formal.
 
-Una entrada por día en [`/entradas`](./entradas), con formato `AAAA-MM-DD.md`.
+Una entrada por dia en `entradas/`, con formato AAAA-MM-DD.
 
 ## Entradas
 
-- [2026-06-01 — Case studies + arranca portfolio-web](./entradas/2026-06-01.md)
-- [2026-05-31 — Arranca la bitácora](./entradas/2026-05-31.md)
+- [2026-06-01](./entradas/2026-06-01.md)
+- [2026-05-31](./entradas/2026-05-31.md)
